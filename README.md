@@ -2,6 +2,6 @@
 
 ## Description
 
-- **Conducted a comprehensive analysis** of Hugo Boss's organizational culture, employee feedback, and market positioning.
-- **Performed qualitative and quantitative research**, including employee surveys and competitor benchmarking.
+- **Conducted a comprehensive analysis** of Hugo Boss's organizational culture and employee feedback.
+- **Performed qualitative and quantitative research**, including employee surveys and kununu ratings.
 - **Presented actionable recommendations** for implementing the EVP across recruitment materials and internal communications.
